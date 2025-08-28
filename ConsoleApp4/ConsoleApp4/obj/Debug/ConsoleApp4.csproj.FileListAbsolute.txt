@@ -1,2 +1,0 @@
-C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
-C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
