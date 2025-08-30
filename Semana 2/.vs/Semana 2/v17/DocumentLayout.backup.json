@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\grupo_1-V3\\Semana 2\\",
+  "WorkspaceRootPath": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\Semana 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F77FBDDB-5D6C-4F3E-9D76-1DB44F1B330B}|Semana 2\\Semana 2.csproj|c:\\users\\alumno\\desktop\\grupo_1-v3\\semana 2\\semana 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F77FBDDB-5D6C-4F3E-9D76-1DB44F1B330B}|Semana 2\\Semana 2.csproj|c:\\users\\enzor\\desktop\\repositorios\\grupo_1-v3\\semana 2\\semana 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77FBDDB-5D6C-4F3E-9D76-1DB44F1B330B}|Semana 2\\Semana 2.csproj|solutionrelative:semana 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\grupo_1-V3\\Semana 2\\Semana 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\Semana 2\\Semana 2\\Program.cs",
               "RelativeDocumentMoniker": "Semana 2\\Program.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\grupo_1-V3\\Semana 2\\Semana 2\\Program.cs*",
-              "RelativeToolTip": "Semana 2\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAApwA8AAAApAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\Semana 2\\Semana 2\\Program.cs",
+              "RelativeToolTip": "Semana 2\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T17:34:10.921Z",
               "EditorCaption": ""

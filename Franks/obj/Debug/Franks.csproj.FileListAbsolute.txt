@@ -1,0 +1,7 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Franks\bin\Debug\Franks.exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Franks\bin\Debug\Franks.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Franks\bin\Debug\Franks.pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Franks\obj\Debug\Franks.csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Franks\obj\Debug\Franks.csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Franks\obj\Debug\Franks.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Franks\obj\Debug\Franks.pdb
