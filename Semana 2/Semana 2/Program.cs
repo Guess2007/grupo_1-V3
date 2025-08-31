@@ -12,19 +12,45 @@ namespace Semana_2
     {
         static void Main(string[] args)
         {
-            byte num1, num2;
-            double may;
-            string linea;
+            
+            {
+                double num1, num2;
+                double may;
+                string linea;
+                bool correcto;
 
-            Console.Write("PRIMER NUMERO: -"); linea = Console.ReadLine();
-            num1 = byte.Parse(linea);
-            Console.Write("SEGUNDO NUMERO: "); linea = Console.ReadLine();
-            num2 = byte.Parse(linea);
-            Console.WriteLine();
-            may = num1 > num2 ? num1 : num2;
-            Console.WriteLine("el mayor es: " + may); linea = Console.ReadLine();
-            Console.WriteLine(may);
-            ConsoleKeyInfo pressedKey = Console.ReadKey();
+                do
+                {
+                    Console.Write("PRIMER NUMERO: "); linea = Console.ReadLine();
+                    correcto = double.TryParse(linea, out num1);
+                    if (!correcto)
+                    {
+                        Console.WriteLine("dato invalido, intente de nuevo");
+
+                    } 
+                }while (!correcto) ;
+
+                do
+                {
+                    Console.Write("SEGUNDO NUMERO: "); linea = Console.ReadLine();
+                    correcto = double.TryParse(linea, out num2);
+                    if (!correcto)
+                    {
+                        Console.WriteLine("dato invalido, intente de nuevo");
+
+                    }
+
+                } while (!correcto);
+              
+  
+                Console.WriteLine();
+                may = num1 > num2 ? num1 : num2;
+                Console.WriteLine("el mayor es: " + may); linea = Console.ReadLine();
+                Console.WriteLine("presione enter para seguir"); Console.ReadLine();
+
+
+            }
+            
      
         }
     }
