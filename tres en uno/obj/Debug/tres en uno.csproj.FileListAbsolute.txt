@@ -1,0 +1,7 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\tres en uno\bin\Debug\tres en uno.exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\tres en uno\bin\Debug\tres en uno.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\tres en uno\bin\Debug\tres en uno.pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\tres en uno\obj\Debug\tres en uno.csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\tres en uno\obj\Debug\tres en uno.csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\tres en uno\obj\Debug\tres en uno.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\tres en uno\obj\Debug\tres en uno.pdb
