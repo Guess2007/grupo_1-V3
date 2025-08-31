@@ -1,8 +1,0 @@
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\bin\Debug\Problema 2 (V.2.0).exe.config
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\bin\Debug\Problema 2 (V.2.0).exe
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\bin\Debug\Problema 2 (V.2.0).pdb
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\obj\Debug\Problema 2 (V.2.0).csproj.AssemblyReference.cache
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\obj\Debug\Problema 2 (V.2.0).csproj.CoreCompileInputs.cache
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\obj\Debug\Problema 2 (V.2.0).exe
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\obj\Debug\Problema 2 (V.2.0).pdb
-C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Problema 2 (V.2.0)\obj\Debug\Problema 2 (V.2.0).exe.config
