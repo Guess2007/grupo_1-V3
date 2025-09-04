@@ -47,7 +47,7 @@ namespace Semana_2
                 may = num1 > num2 ? num1 : num2;
                 Console.WriteLine("el mayor es: " + may); linea = Console.ReadLine();
                 Console.WriteLine("presione enter para seguir"); Console.ReadLine();
-
+                Console.ReadKey();
 
             }
 

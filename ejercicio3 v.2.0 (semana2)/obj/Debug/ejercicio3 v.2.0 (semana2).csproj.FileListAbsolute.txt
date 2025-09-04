@@ -1,0 +1,8 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\obj\Debug\ejercicio3 v.2.0 (semana2).csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\obj\Debug\ejercicio3 v.2.0 (semana2).csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\bin\Debug\ejercicio3 v.2.0 (semana2).exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\bin\Debug\ejercicio3 v.2.0 (semana2).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\bin\Debug\ejercicio3 v.2.0 (semana2).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\obj\Debug\ejercicio3 v.2.0 (semana2).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\obj\Debug\ejercicio3 v.2.0 (semana2).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio3 v.2.0 (semana2)\obj\Debug\ejercicio3 v.2.0 (semana2).exe.config

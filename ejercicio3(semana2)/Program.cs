@@ -10,15 +10,15 @@ namespace ejercicio3_semana2_
     {
         static void Main(string[] args)
         {
-            int num1, num2, num3;
-            int mayor;
-            int menor;
+            double num1, num2, num3;
+            double mayor;
+            double menor;
 
 
             do
             {
                 Console.WriteLine("Ingrese el primer numero:");
-                num1 = int.Parse(Console.ReadLine());
+                num1 = double.Parse(Console.ReadLine());
                 if (num1 < 0)
                 {
                     Console.WriteLine("El numero no puede ser negativo, intente de nuevo.");
@@ -29,7 +29,7 @@ namespace ejercicio3_semana2_
                     Console.WriteLine("El numero no puede ser cero, intente de nuevo.");
                     continue;
                 }
-                else if (!int.TryParse(num1.ToString(), out num1))
+                else if (!double.TryParse(num1.ToString(), out num1))
                 {
                     Console.WriteLine("Entrada invalida, intente de nuevo.");
                     continue;
@@ -39,7 +39,7 @@ namespace ejercicio3_semana2_
                 do
                 {
                     Console.WriteLine("Ingrese el segundo numero:");
-                    num2 = int.Parse(Console.ReadLine());
+                    num2 = double.Parse(Console.ReadLine());
                     if (num2 < 0)
                     {
                         Console.WriteLine("El numero no puede ser negativo, intente de nuevo.");
@@ -50,7 +50,7 @@ namespace ejercicio3_semana2_
                         Console.WriteLine("El numero no puede ser cero, intente de nuevo.");
                         continue;
                     }
-                    else if (!int.TryParse(num2.ToString(), out num2))
+                    else if (!double.TryParse(num2.ToString(), out num2))
                     {
                         Console.WriteLine("Entrada invalida, intente de nuevo.");
                         continue;
@@ -59,7 +59,7 @@ namespace ejercicio3_semana2_
                 do
                 {
                     Console.WriteLine("Ingrese el tercer numero:");
-                    num3 = int.Parse(Console.ReadLine());
+                    num3 = double.Parse(Console.ReadLine());
                     if (num3 < 0)
                     {
                         Console.WriteLine("El numero no puede ser negativo, intente de nuevo.");
@@ -70,7 +70,7 @@ namespace ejercicio3_semana2_
                         Console.WriteLine("El numero no puede ser cero, intente de nuevo.");
                         continue;
                     }
-                    else if (!int.TryParse(num3.ToString(), out num3))
+                    else if (!double.TryParse(num3.ToString(), out num3))
                     {
                         Console.WriteLine("Entrada invalida, intente de nuevo.");
                         continue;
