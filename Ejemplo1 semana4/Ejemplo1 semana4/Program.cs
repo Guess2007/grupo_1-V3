@@ -12,9 +12,7 @@ namespace Ejemplo1_semana4
     {
         static void Main(string[] args)
         {
-            double num1, num2;
-            double may;
-            string linea;
+            double num1, num2; double may; string linea;
 
             Console.WriteLine("ingrese el primer numero: "); linea = Console.ReadLine();
             num1 = double.Parse(linea);
@@ -32,7 +30,6 @@ namespace Ejemplo1_semana4
                     string respuesta;
                     do
                     {
-
                         Console.Write("¿Desea continuar? (s/n): "); respuesta = Console.ReadLine();
 
                         if (respuesta == "s")
@@ -50,6 +47,17 @@ namespace Ejemplo1_semana4
                         }
 
                     } while (respuesta != "s" && respuesta != "n");
+                    if (continuar) 
+                    {
+                        Console.WriteLine("continuando...");
+                        Console.WriteLine("Eso es todo por el momento ¯\\_(ツ)_/¯, tenga buen dia...");
+                        Console.ReadKey();                    
+                    }
+                    else 
+                    {
+                        Console.WriteLine("Saliendo..."); Console.ReadLine();
+                        Console.ReadKey();
+                    }
                 }
                 else 
                 {
