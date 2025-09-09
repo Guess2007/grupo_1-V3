@@ -48,7 +48,6 @@ namespace Semana_2
                 Console.WriteLine("el mayor es: " + may); linea = Console.ReadLine();
                 Console.WriteLine("presione enter para seguir"); Console.ReadLine();
                 Console.ReadKey();
-
             }
 
 
