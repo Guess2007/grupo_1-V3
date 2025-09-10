@@ -5,3 +5,10 @@ C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ej
 C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ejercicio 2(semana2).csproj.CoreCompileInputs.cache
 C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ejercicio 2(semana2).exe
 C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ejercicio 2(semana2).pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ejercicio 2(semana2)\bin\Debug\ejercicio 2(semana2).exe.config
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ejercicio 2(semana2)\bin\Debug\ejercicio 2(semana2).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ejercicio 2(semana2)\bin\Debug\ejercicio 2(semana2).pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ejercicio 2(semana2).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ejercicio 2(semana2).csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ejercicio 2(semana2).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ejercicio 2(semana2)\obj\Debug\ejercicio 2(semana2).pdb
