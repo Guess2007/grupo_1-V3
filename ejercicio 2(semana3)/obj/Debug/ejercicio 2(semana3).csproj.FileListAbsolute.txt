@@ -6,3 +6,11 @@ C:\Users\ALUMNO\Desktop\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(se
 C:\Users\ALUMNO\Desktop\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).exe
 C:\Users\ALUMNO\Desktop\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).pdb
 C:\Users\ALUMNO\Desktop\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\bin\Debug\ejercicio 2(semana3).exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\bin\Debug\ejercicio 2(semana3).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\bin\Debug\ejercicio 2(semana3).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\ejercicio 2(semana3)\obj\Debug\ejercicio 2(semana3).pdb

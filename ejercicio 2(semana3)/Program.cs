@@ -54,9 +54,10 @@ namespace ejercicio_2_semana3_
                 sabado = 6;
                 domingo = 7;
             }
-            else if (!esvalido)
+            else if (byte.TryParse(linea, out lunes)) ; byte.TryParse(linea, out martes); byte.TryParse(linea, out miercoles); byte.TryParse(linea, out jueves); byte.TryParse(linea, out viernes); byte.TryParse(linea, out sabado); byte.TryParse(linea, out domingo);)
             {
                 Console.WriteLine("dato invalido, cerrando sistema...");
+
             }
 
         }

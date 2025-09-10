@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\comando para a\u00F1adir el si o no (analizar profundamente)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6185A67-F9A2-417D-8DB0-A162417FF6CA}|comando para a\u00F1adir el si o no (analizar profundamente).csproj|c:\\users\\enzor\\desktop\\repositorios\\grupo_1-v3\\comando para a\u00F1adir el si o no (analizar profundamente)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6185A67-F9A2-417D-8DB0-A162417FF6CA}|comando para a\u00F1adir el si o no (analizar profundamente).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\comando para a\u00F1adir el si o no (analizar profundamente)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\comando para a\u00F1adir el si o no (analizar profundamente)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:38:09.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

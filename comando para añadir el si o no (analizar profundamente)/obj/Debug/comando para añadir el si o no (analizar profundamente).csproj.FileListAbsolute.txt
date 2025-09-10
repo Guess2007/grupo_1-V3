@@ -1,0 +1,7 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\comando para añadir el si o no (analizar profundamente)\bin\Debug\comando para añadir el si o no (analizar profundamente).exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\comando para añadir el si o no (analizar profundamente)\bin\Debug\comando para añadir el si o no (analizar profundamente).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\comando para añadir el si o no (analizar profundamente)\bin\Debug\comando para añadir el si o no (analizar profundamente).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\comando para añadir el si o no (analizar profundamente)\obj\Debug\comando para añadir el si o no (analizar profundamente).csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\comando para añadir el si o no (analizar profundamente)\obj\Debug\comando para añadir el si o no (analizar profundamente).csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\comando para añadir el si o no (analizar profundamente)\obj\Debug\comando para añadir el si o no (analizar profundamente).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\comando para añadir el si o no (analizar profundamente)\obj\Debug\comando para añadir el si o no (analizar profundamente).pdb
