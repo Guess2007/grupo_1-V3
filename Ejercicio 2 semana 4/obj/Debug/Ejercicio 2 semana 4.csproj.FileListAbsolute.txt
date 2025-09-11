@@ -6,3 +6,11 @@ C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ej
 C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.exe
 C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.pdb
 C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.exe.config
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\bin\Debug\Ejercicio 2 semana 4.exe.config
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\bin\Debug\Ejercicio 2 semana 4.exe
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\bin\Debug\Ejercicio 2 semana 4.pdb
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.exe.config
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.exe
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Ejercicio 2 semana 4\obj\Debug\Ejercicio 2 semana 4.pdb
