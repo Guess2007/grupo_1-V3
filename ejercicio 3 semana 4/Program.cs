@@ -43,7 +43,7 @@ namespace ejercicio_3_semana_4
                     break;
                 default:
                     Console.WriteLine("Operacion no valida.");
-                    break;
+                    break; 
             }
         }
     }
