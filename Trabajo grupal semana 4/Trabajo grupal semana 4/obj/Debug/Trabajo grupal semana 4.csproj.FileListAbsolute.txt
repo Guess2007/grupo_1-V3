@@ -1,0 +1,8 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\bin\Debug\Trabajo grupal semana 4.exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\bin\Debug\Trabajo grupal semana 4.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\bin\Debug\Trabajo grupal semana 4.pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\obj\Debug\Trabajo grupal semana 4.csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\obj\Debug\Trabajo grupal semana 4.csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\obj\Debug\Trabajo grupal semana 4.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\obj\Debug\Trabajo grupal semana 4.pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Trabajo grupal semana 4\Trabajo grupal semana 4\obj\Debug\Trabajo grupal semana 4.exe.config
