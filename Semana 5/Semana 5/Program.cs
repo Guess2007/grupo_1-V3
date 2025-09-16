@@ -53,6 +53,7 @@ namespace Semana_5
             Console.ReadKey();
             */
 
+            /*
             int a = 1;
             int b = 2;
             bool der = false;
@@ -74,7 +75,60 @@ namespace Semana_5
             }
 
             a = 6
-                 
+            */
+
+            /*
+            string fruta = "pera";
+
+            switch (fruta)
+            {
+                case "manzana":
+                    Console.WriteLine("opcion manzana");
+                    break;
+                case "pera":
+                    Console.WriteLine("opcion pera");
+                    break;
+                case "naranja":
+                    Console.WriteLine("Opcion naranja");
+                    break;
+                default:
+                    Console.WriteLine("Otra fruta: " + fruta);
+                    break;
+            }
+            */
+
+            string operaciones = "";
+            string linea;
+            int num1 = 0;
+            int num2 = 0;
+            Console.WriteLine("digite el primer numero:"); linea = Console.ReadLine();
+            num1 = int.Parse(linea);
+            Console.WriteLine("digite el segundo numero: "); 
+            num2 = int.Parse(linea);
+            Console.WriteLine("Agregar oper.");
+            operaciones = Console.ReadLine();
+
+            switch (operaciones)
+            {
+                case "suma":
+                    Console.WriteLine(num1 + num2);
+                    break;
+                case "resta":
+                    Console.WriteLine(num1 - num2);
+                    break;
+                case "mult":
+                    Console.WriteLine(num1 * num2);
+                    break;
+                case "div":
+                    Console.WriteLine(num1 / num2);
+                    break;
+                default:
+                    Console.WriteLine("No tiene oper..........");
+                    break;
+            }
+
+
+
+            }
         }
-    }
 }
