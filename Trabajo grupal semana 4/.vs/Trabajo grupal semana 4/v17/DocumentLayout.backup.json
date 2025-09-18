@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\Trabajo grupal semana 4\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\Trabajo grupal semana 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C228757-83B2-4F7C-B021-8539A948FEA6}|Trabajo grupal semana 4\\Trabajo grupal semana 4.csproj|c:\\users\\enzor\\desktop\\repositorios\\grupo_1-v3\\trabajo grupal semana 4\\trabajo grupal semana 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C228757-83B2-4F7C-B021-8539A948FEA6}|Trabajo grupal semana 4\\Trabajo grupal semana 4.csproj|c:\\users\\alumno\\desktop\\repositorios\\grupo_1-v3\\trabajo grupal semana 4\\trabajo grupal semana 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C228757-83B2-4F7C-B021-8539A948FEA6}|Trabajo grupal semana 4\\Trabajo grupal semana 4.csproj|solutionrelative:trabajo grupal semana 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\Trabajo grupal semana 4\\Trabajo grupal semana 4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\Trabajo grupal semana 4\\Trabajo grupal semana 4\\Program.cs",
               "RelativeDocumentMoniker": "Trabajo grupal semana 4\\Program.cs",
-              "ToolTip": "C:\\Users\\EnzoR\\Desktop\\Repositorios\\grupo_1-V3\\Trabajo grupal semana 4\\Trabajo grupal semana 4\\Program.cs",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\Trabajo grupal semana 4\\Trabajo grupal semana 4\\Program.cs",
               "RelativeToolTip": "Trabajo grupal semana 4\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T15:16:12.179Z",
               "EditorCaption": ""

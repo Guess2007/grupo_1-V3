@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ALUMNO\Desktop\grupo_1-V3\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\bin\Debug\Semana 5 LCOM.exe.config
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\bin\Debug\Semana 5 LCOM.exe
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\bin\Debug\Semana 5 LCOM.pdb
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\obj\Debug\Semana 5 LCOM.exe
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\obj\Debug\Semana 5 LCOM.pdb
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\Semana 5 LCOM\obj\Debug\Semana 5 LCOM.exe.config
