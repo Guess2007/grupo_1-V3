@@ -1,0 +1,48 @@
+﻿using   System;
+ using   System.Collections.Generic;
+ using   System.Linq;
+ using   System.Text;
+ using   System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string a;
+            string b;
+            int n = 0;
+
+               int mayor = int.MinValue;
+               int menor = int.MaxValue;
+               int num = 0;
+
+               Console.WriteLine("¿Cuántos números desea ingresar? ");
+               a = Console.ReadLine(); n = int.Parse(a);
+
+               for (int i = 1; i <= n; i++)
+               {
+                   Console.Write($"Ingrese el número {i}: ");
+                   b = Console.ReadLine(); num = int.Parse(b);
+
+                   if (num > mayor)
+                   {
+                       mayor = num;
+                   }
+
+                   if (num < menor)
+                   {
+                       menor = num;
+                   }
+               }
+
+               int diferencia = mayor - menor;
+
+               Console.WriteLine($"Mayor: {mayor}");
+               Console.WriteLine($"Menor: {menor}");
+               Console.WriteLine($"Diferencia: {diferencia}");
+           }
+    }
+}
+

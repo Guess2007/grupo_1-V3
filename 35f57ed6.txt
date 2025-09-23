@@ -1,0 +1,45 @@
+﻿using   System;
+ using   System.Collections.Generic;
+ using   System.Linq;
+ using   System.Text;
+ using   System.Threading.Tasks;
+
+namespace ConsoleApp2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double a = 0;
+            string A;
+            bool valid;
+            do
+            {
+                Console.Write("ingrese el numero: ");
+                A = Console.ReadLine(); valid = double.TryParse(A, out a);
+                if (!valid)
+                {
+                    Console.WriteLine("(ingrese un valor numerico valido)\n");
+                }
+
+               } while (!valid);
+
+               for (double i = a; i >= 1 ; i--)
+               {
+                   if (i > 1 )
+                   {
+                       Console.Write(i + "x");
+                   }
+                   else
+                   {
+                       Console.Write(i);
+                   }
+                        //esto solo imprime la cosas, no multiplica nada
+               }
+
+
+
+           }
+    }
+}
+

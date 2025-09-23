@@ -1,0 +1,69 @@
+﻿using   System;
+ using   System.Collections.Generic;
+ using   System.Linq;
+ using   System.Text;
+ using   System.Threading.Tasks;
+
+namespace ConsoleApp12
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double a = 0, b = 0, c = 0;
+            string entrada1;
+            string entrada2;
+            string num;
+            bool valid;
+
+               do
+               {
+                    Console.Write("Ingrese la operacion a realizar :\n-(A) Suma de Pares \n-(B) Suma de Impares \n= ");
+                    entrada1 = Console.ReadLine(); entrada2 = entrada1.ToUpper();
+                    if(entrada2 != "A" && entrada2 != "B")
+                    {
+                        Console.WriteLine("OPCION NO VALIDA \n(ingrese solo A o B)\n");
+                    }
+               }
+               while (entrada2 != "A" && entrada2 != "B");
+
+               switch (entrada2)
+               {
+                   case "A":
+
+                       do
+                       {
+                           Console.WriteLine("Ingrese el ultimo numero de la suma: ");
+                           num = Console.ReadLine(); valid = double.TryParse(num, out a);
+                           if (!valid)
+                           {
+                               Console.WriteLine("entrada no valida \n(ingrese un numero)");
+                           }
+                       } while (!valid);
+
+                        b = a / 2; c = b * (b + 1);
+                        Console.WriteLine("el resultado es = "+c);
+                        break;
+                    case "B":
+                        do
+                        {
+                            Console.WriteLine("Ingrese el ultimo numero de la suma: ");
+                            num = Console.ReadLine(); valid = double.TryParse(num, out a);
+                            if (!valid)
+                            {
+                                Console.WriteLine("entrada no valida \n(ingrese un numero)");
+                            }
+                        } while (!valid);
+
+                       b = (a+1 ) / 2; c = b * b;
+                       Console.WriteLine("el resultado es = " + c);
+                       break;
+
+               }
+
+
+
+           }
+    }
+}
+
