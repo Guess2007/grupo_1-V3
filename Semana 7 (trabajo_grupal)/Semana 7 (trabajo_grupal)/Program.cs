@@ -31,7 +31,50 @@ namespace Semana_7__trabajo_grupal_
                 while (num < 10)
                 {
                     Console.WriteLine("estos son tus numeros: {0}", num);
-                    num++;
+                    num+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 }
             }
         }
