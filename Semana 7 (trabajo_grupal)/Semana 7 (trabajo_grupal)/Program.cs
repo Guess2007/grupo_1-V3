@@ -19,12 +19,20 @@ namespace Semana_7__trabajo_grupal_
             bool esValido;
 
             Console.WriteLine("ingrese su numero: "); linea = Console.ReadLine();
-            num = int.Parse(linea);
+            esValido = int.TryParse(linea, out num);
 
-            while (num < 10) 
+            if (!esValido)
             {
-                Console.WriteLine(""
-            
+                Console.WriteLine("comando invalido, intente de nuevo");
+                Console.ReadKey();
+            }
+            else
+            {
+                while (num < 10)
+                {
+                    Console.WriteLine("estos son tus numeros: {0}", num);
+                    num++;
+                }
             }
         }
     }

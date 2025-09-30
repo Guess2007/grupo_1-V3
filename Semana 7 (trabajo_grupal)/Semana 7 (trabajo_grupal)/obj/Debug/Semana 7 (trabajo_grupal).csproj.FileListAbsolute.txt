@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 7 (trabajo_grupal)\Semana 7 (trabajo_grupal)\bin\Debug\Semana 7 (trabajo_grupal).exe.config
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 7 (trabajo_grupal)\Semana 7 (trabajo_grupal)\bin\Debug\Semana 7 (trabajo_grupal).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 7 (trabajo_grupal)\Semana 7 (trabajo_grupal)\bin\Debug\Semana 7 (trabajo_grupal).pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 7 (trabajo_grupal)\Semana 7 (trabajo_grupal)\obj\Debug\Semana 7 (trabajo_grupal).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 7 (trabajo_grupal)\Semana 7 (trabajo_grupal)\obj\Debug\Semana 7 (trabajo_grupal).csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 7 (trabajo_grupal)\Semana 7 (trabajo_grupal)\obj\Debug\Semana 7 (trabajo_grupal).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 7 (trabajo_grupal)\Semana 7 (trabajo_grupal)\obj\Debug\Semana 7 (trabajo_grupal).pdb
