@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
