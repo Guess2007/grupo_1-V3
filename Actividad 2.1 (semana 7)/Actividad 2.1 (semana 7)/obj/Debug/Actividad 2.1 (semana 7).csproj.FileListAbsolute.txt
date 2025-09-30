@@ -1,0 +1,2 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Actividad 2.1 (semana 7)\Actividad 2.1 (semana 7)\obj\Debug\Actividad 2.1 (semana 7).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Actividad 2.1 (semana 7)\Actividad 2.1 (semana 7)\obj\Debug\Actividad 2.1 (semana 7).csproj.CoreCompileInputs.cache

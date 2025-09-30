@@ -19,7 +19,7 @@ namespace Semana_5_LCOM
             Console.ReadLine();
             */
 
-            /*
+            
             byte num, i;
             int RESULT;
             string linea;
@@ -35,8 +35,9 @@ namespace Semana_5_LCOM
             }
             Console.WriteLine("Gracias por usar el programa Csharp");
             Console.ReadKey();
-            */
+            
 
+            /*
             byte num, I;
             int SUM1 = 0, SUM2 = 0;
             string linea;
@@ -57,6 +58,7 @@ namespace Semana_5_LCOM
             Console.WriteLine("Total en impares: " + SUM1);
             Console.WriteLine($"{SUM1} {SUM2}");
             Console.Read();
+            */
         }
     }
 }
