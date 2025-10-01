@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 6 (Examen)\Semana 6 (Examen)\bin\Debug\Semana 6 (Examen).exe.config
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 6 (Examen)\Semana 6 (Examen)\bin\Debug\Semana 6 (Examen).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 6 (Examen)\Semana 6 (Examen)\bin\Debug\Semana 6 (Examen).pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 6 (Examen)\Semana 6 (Examen)\obj\Debug\Semana 6 (Examen).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 6 (Examen)\Semana 6 (Examen)\obj\Debug\Semana 6 (Examen).csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 6 (Examen)\Semana 6 (Examen)\obj\Debug\Semana 6 (Examen).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Semana 6 (Examen)\Semana 6 (Examen)\obj\Debug\Semana 6 (Examen).pdb
