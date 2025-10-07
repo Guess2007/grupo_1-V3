@@ -1,0 +1,8 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\bin\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\bin\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\bin\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\obj\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\obj\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\obj\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\obj\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Sistema de seguridad por contraseña (Semana 7, actividad 1)\obj\Debug\Sistema de seguridad por contraseña (Semana 7, actividad 1).exe.config
