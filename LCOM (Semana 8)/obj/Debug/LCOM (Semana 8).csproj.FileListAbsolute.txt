@@ -1,0 +1,2 @@
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\LCOM (Semana 8)\obj\Debug\LCOM (Semana 8).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\repositorios\grupo_1-V3\LCOM (Semana 8)\obj\Debug\LCOM (Semana 8).csproj.CoreCompileInputs.cache
