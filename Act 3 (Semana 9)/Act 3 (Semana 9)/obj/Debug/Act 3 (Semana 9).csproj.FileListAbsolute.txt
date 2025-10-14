@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Act 3 (Semana 9)\Act 3 (Semana 9)\bin\Debug\Act 3 (Semana 9).exe.config
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Act 3 (Semana 9)\Act 3 (Semana 9)\bin\Debug\Act 3 (Semana 9).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Act 3 (Semana 9)\Act 3 (Semana 9)\bin\Debug\Act 3 (Semana 9).pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Act 3 (Semana 9)\Act 3 (Semana 9)\obj\Debug\Act 3 (Semana 9).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Act 3 (Semana 9)\Act 3 (Semana 9)\obj\Debug\Act 3 (Semana 9).csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Act 3 (Semana 9)\Act 3 (Semana 9)\obj\Debug\Act 3 (Semana 9).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\Act 3 (Semana 9)\Act 3 (Semana 9)\obj\Debug\Act 3 (Semana 9).pdb
