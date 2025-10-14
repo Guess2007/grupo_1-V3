@@ -1,0 +1,8 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\bin\Debug\Clase de la semana 7 (fuera del main).exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\bin\Debug\Clase de la semana 7 (fuera del main).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\bin\Debug\Clase de la semana 7 (fuera del main).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\obj\Debug\Clase de la semana 7 (fuera del main).csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\obj\Debug\Clase de la semana 7 (fuera del main).csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\obj\Debug\Clase de la semana 7 (fuera del main).exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\obj\Debug\Clase de la semana 7 (fuera del main).pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Clase de la semana 7 (fuera del main)\obj\Debug\Clase de la semana 7 (fuera del main).exe.config
