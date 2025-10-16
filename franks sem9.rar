@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace biblioteca_ABC
+{
+    public class Class1
+    {
+        public class OperacionesBasicas
+        {
+            public static int suma(int a, int b)
+            {
+                int c = a + b;
+                return c;
+            }
+            public static int resta(int a, int b)
+            {
+                int c = a - b;
+                return c;
+            }
+            public static int producto(int a, int b)
+            {
+
+                int c = a * b;
+                return c;
+            }
+            public static int division(int a, int b)
+            {
+
+                int c = a / b;
+                return c;
+            }
+        }
+    }
+}
