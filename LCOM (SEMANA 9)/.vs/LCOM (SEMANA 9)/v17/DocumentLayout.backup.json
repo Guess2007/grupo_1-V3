@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\LCOM (SEMANA 9)\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\LCOM (Semana 9)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A67F55E-7664-42C1-B56C-17D73D5C6434}|LCOM (SEMANA 9).csproj|c:\\users\\alumno\\desktop\\repositorios\\grupo_1-v3\\lcom (semana 9)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A67F55E-7664-42C1-B56C-17D73D5C6434}|LCOM (SEMANA 9).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\LCOM (Semana 9)\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\LCOM (SEMANA 9)\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\LCOM (SEMANA 9)\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\LCOM (Semana 9)\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\repositorios\\grupo_1-V3\\LCOM (Semana 9)\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:26:24.791Z",
+              "WhenOpened": "2025-10-16T18:45:06.043Z",
               "EditorCaption": ""
             }
           ]

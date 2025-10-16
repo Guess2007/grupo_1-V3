@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9A67F55E-7664-42C1-B56C-17D73D5C6434}</ProjectGuid>
+    <ProjectGuid>{AA4A6669-C20B-4B91-99A4-A8865FAE0D2A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LCOM__SEMANA_9_</RootNamespace>
-    <AssemblyName>LCOM %28SEMANA 9%29</AssemblyName>
+    <RootNamespace>LCOM__Semana_9_</RootNamespace>
+    <AssemblyName>LCOM %28Semana 9%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
