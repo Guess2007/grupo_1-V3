@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\semana 9\\utilitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|solutionrelative:semana 9\\utilitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\semana 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|solutionrelative:semana 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|c:\\users\\alumno\\desktop\\grupo 1_1\\grupo_1-v3\\semana 9\\semana 9\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|solutionrelative:semana 9\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|c:\\users\\alumno\\desktop\\grupo 1_1\\grupo_1-v3\\semana 9\\semana 9\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\semana 9\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|solutionrelative:semana 9\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|c:\\users\\alumno\\desktop\\grupo 1_1\\grupo_1-v3\\semana 9\\semana 9\\utilitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|solutionrelative:semana 9\\utilitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|c:\\users\\alumno\\desktop\\grupo 1_1\\grupo_1-v3\\semana 9\\semana 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD83072-5072-4707-ACFC-243E40375FFB}|Semana 9\\Semana 9.csproj|solutionrelative:semana 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,29 +26,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "profesor.cs",
               "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\profesor.cs",
               "RelativeDocumentMoniker": "Semana 9\\profesor.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\profesor.cs*",
-              "RelativeToolTip": "Semana 9\\profesor.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\profesor.cs",
+              "RelativeToolTip": "Semana 9\\profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:30:27.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "alumno.cs",
               "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\alumno.cs",
               "RelativeDocumentMoniker": "Semana 9\\alumno.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\alumno.cs*",
-              "RelativeToolTip": "Semana 9\\alumno.cs*",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\alumno.cs",
+              "RelativeToolTip": "Semana 9\\alumno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:26:42.943Z",
@@ -56,12 +56,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "utilitaria.cs",
               "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\utilitaria.cs",
               "RelativeDocumentMoniker": "Semana 9\\utilitaria.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\utilitaria.cs*",
-              "RelativeToolTip": "Semana 9\\utilitaria.cs*",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\utilitaria.cs",
+              "RelativeToolTip": "Semana 9\\utilitaria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:26:32.324Z",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\grupo 1_1\\grupo_1-V3\\Semana 9\\Semana 9\\Program.cs",
               "RelativeDocumentMoniker": "Semana 9\\Program.cs",
