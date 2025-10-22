@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void incremento2(ref int n1)
+        {
+            n1 += 10;
+            
+        }
+        static void incremento1(int n1)
+        {
+            n1 += 10;
+           
+        }
+        static void Main(string[] args)
+        {
+            int a = 10;
+            int b = 10;
+
+            incremento1(a);
+            incremento2(ref b);
+
+            Console.WriteLine("a = " + a);
+            Console.WriteLine("b = " + b);
+        }
+    }//los dos incrementos son iguales pero el ref devuelve el valor incrementado a la main
+     //se podria usar out pero ese es mas para procesos
+     //o return , pero tendria que igualar 
+}
