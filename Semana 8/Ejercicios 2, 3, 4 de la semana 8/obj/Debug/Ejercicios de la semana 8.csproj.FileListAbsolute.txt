@@ -1,0 +1,8 @@
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\bin\Debug\Ejercicios de la semana 8.exe.config
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\bin\Debug\Ejercicios de la semana 8.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\bin\Debug\Ejercicios de la semana 8.pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\obj\Debug\Ejercicios de la semana 8.csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\obj\Debug\Ejercicios de la semana 8.csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\obj\Debug\Ejercicios de la semana 8.exe
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\obj\Debug\Ejercicios de la semana 8.pdb
+C:\Users\EnzoR\Desktop\Repositorios\grupo_1-V3\Ejercicios de la semana 8\obj\Debug\Ejercicios de la semana 8.exe.config

@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp16
+{
+    internal class Program
+    {
+        static int num1 = 0, num2 = 0, suma = 0;
+        static void ingresar()
+        {
+            Console.Write("Ingresar N1: ");
+            num1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingresar N2: ");
+            num2 = int.Parse(Console.ReadLine());
+        }
+
+        static void sumar()
+        {
+           Program.suma = Program.num1 + Program.num2;
+            
+        }
+
+        static void imprimir()
+        {
+            Console.WriteLine("La suma es: " + suma);
+        }
+        static void Main(string[] args)
+        {
+           Program.ingresar();
+           Program.sumar();
+           Program.imprimir();
+        }
+    }
+}
+
