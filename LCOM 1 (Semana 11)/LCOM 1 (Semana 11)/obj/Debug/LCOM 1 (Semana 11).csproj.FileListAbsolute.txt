@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\LCOM 1 (Semana 11)\LCOM 1 (Semana 11)\bin\Debug\LCOM 1 (Semana 11).exe.config
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\LCOM 1 (Semana 11)\LCOM 1 (Semana 11)\bin\Debug\LCOM 1 (Semana 11).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\LCOM 1 (Semana 11)\LCOM 1 (Semana 11)\bin\Debug\LCOM 1 (Semana 11).pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\LCOM 1 (Semana 11)\LCOM 1 (Semana 11)\obj\Debug\LCOM 1 (Semana 11).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\LCOM 1 (Semana 11)\LCOM 1 (Semana 11)\obj\Debug\LCOM 1 (Semana 11).csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\LCOM 1 (Semana 11)\LCOM 1 (Semana 11)\obj\Debug\LCOM 1 (Semana 11).exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\LCOM 1 (Semana 11)\LCOM 1 (Semana 11)\obj\Debug\LCOM 1 (Semana 11).pdb
