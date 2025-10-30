@@ -50,14 +50,13 @@ namespace LCOM2__SEMANA_11_
 
             string linea;
             int a = 0;
-            Random rmd = new Random();
             Console.WriteLine("Cuantos elementos: "); linea = Console.ReadLine();
             a = int.Parse(linea);
 
             int[] posicion = new int[a];
-            for (int i = 0; i < a.Lenght; i++)
+            for (int i = 0; i < posicion.Length; i++)
             {
-                
+                posicion[i] = Console.WriteLine();
             }
 
 
