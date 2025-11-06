@@ -14,18 +14,30 @@ namespace LCOM2_1._1__Semana_12_
 
             Console.WriteLine("¿Cuantos elementos? (maximo: 12) ");
             aux = int.Parse(Console.ReadLine());
-
-            int[] lista = new int[aux];
-
-            for (int i = 0; i < aux; i++)
+            do 
             {
-                int num = 0;
-                Console.WriteLine("posicion " + i + ": ");
-                num = int.Parse(Console.ReadLine());
-                lista [i] = num;
+                if (aux <= 12)
+                {
+                    int[] lista = new int[aux];
 
-                Console.WriteLine(lista[i]);
-            }
+                    for (int i = 0; i < aux; i++)
+                    {
+                        int num = 0;
+                        Console.WriteLine("posicion " + i + ": ");
+                        num = int.Parse(Console.ReadLine());
+                        lista[i] = num;
+                    }
+
+                }
+                else 
+                {
+                    Console.WriteLine("Fuera de los parametros, intente de nuevo...");
+                    Console.ReadKey();
+                }
+                
+            } while (aux > 12);
+
+            
 
             
         }
