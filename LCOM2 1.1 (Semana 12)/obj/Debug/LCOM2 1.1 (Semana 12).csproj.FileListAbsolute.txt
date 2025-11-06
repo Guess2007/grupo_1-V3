@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\bin\Debug\LCOM2 1.1 (Semana 12).exe.config
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\bin\Debug\LCOM2 1.1 (Semana 12).exe
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\bin\Debug\LCOM2 1.1 (Semana 12).pdb
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\obj\Debug\LCOM2 1.1 (Semana 12).csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\obj\Debug\LCOM2 1.1 (Semana 12).csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\obj\Debug\LCOM2 1.1 (Semana 12).exe
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\obj\Debug\LCOM2 1.1 (Semana 12).pdb
+C:\Users\ALUMNO\Desktop\vs\LCOM2 1.1 (Semana 12)\obj\Debug\LCOM2 1.1 (Semana 12).exe.config
