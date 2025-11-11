@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\CASOT3\CASOT3\obj\Debug\CASOT3.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\CASOT3\CASOT3\obj\Debug\CASOT3.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\CASOT3\CASOT3\bin\Debug\CASOT3.exe.config
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\CASOT3\CASOT3\bin\Debug\CASOT3.exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\CASOT3\CASOT3\bin\Debug\CASOT3.pdb
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\CASOT3\CASOT3\obj\Debug\CASOT3.exe
+C:\Users\ALUMNO\Desktop\grupo 1_1\grupo_1-V3\CASOT3\CASOT3\obj\Debug\CASOT3.pdb
