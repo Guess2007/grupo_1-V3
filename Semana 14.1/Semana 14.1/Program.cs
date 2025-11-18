@@ -11,8 +11,25 @@ namespace Semana_14._1
     {
         static void Main(string[] args)
         {
+            int a;
+            Console.WriteLine("{0}     ", (char)a);
+            arrayzero();
+        }
 
-            opciones();
+        public static void arrayzero() 
+        { 
+            {
+                for (int a = 33; a <= 126; a++)
+                {
+                    Console.WriteLine("{0}     ", (char)a);
+                    if (a % 8 == 0)
+                    {
+                        Console.WriteLine();
+                    }
+                }
+
+                Console.ReadKey();
+            } 
         }
 
         public static void array()
@@ -119,7 +136,22 @@ namespace Semana_14._1
                     Console.WriteLine("[{0}]", a[i]);
                 }
 
-                
+                string[] opcion = { "eliminar", "añadir", "salir" };
+                string l;
+                int n;
+                Console.WriteLine("¿desea realizar alguna otra funcion? ");
+                Console.WriteLine("opciones: ");
+                for (int i = 0; i < opcion.Length; i++)
+                {
+                    Console.WriteLine(opcion[i]);
+                    l = Console.ReadLine();
+                    if (l == opcion[0])
+                    {
+                        Console.WriteLine("*Array a eliminar: ");
+                        n = int.Parse(Console.ReadLine());
+                        for (int j = 0; j < opcion.Length; j++) { }
+                    }
+                }
             }
 
         }
@@ -127,21 +159,7 @@ namespace Semana_14._1
         public static void opciones() 
         { 
             {
-                string[] opcion = { "eliminar", "añadir", "salir"};
-                string l;
-                int n;
-                Console.WriteLine("desea realizar alguna otra funcion: "); l = Console.ReadLine();
-                Console.WriteLine("opciones: ");
-                for (int i = 0; i < opcion.Length; i++)
-                {
-                    Console.WriteLine(opcion[i]);
-                    if (l == opcion[0]) 
-                    {
-                        Console.WriteLine("*Array a eliminar: ");
-                        n = int.Parse(Console.ReadLine());
-                        for (int j = 0; j < opcion.Length; j++) { }
-                    }
-                }
+               
             }
         }
     }
