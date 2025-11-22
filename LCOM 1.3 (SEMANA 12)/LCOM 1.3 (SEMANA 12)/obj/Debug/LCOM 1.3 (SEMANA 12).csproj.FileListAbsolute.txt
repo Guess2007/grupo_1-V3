@@ -1,0 +1,7 @@
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\LCOM 1.3 (SEMANA 12)\LCOM 1.3 (SEMANA 12)\bin\Debug\LCOM 1.3 (SEMANA 12).exe.config
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\LCOM 1.3 (SEMANA 12)\LCOM 1.3 (SEMANA 12)\bin\Debug\LCOM 1.3 (SEMANA 12).exe
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\LCOM 1.3 (SEMANA 12)\LCOM 1.3 (SEMANA 12)\bin\Debug\LCOM 1.3 (SEMANA 12).pdb
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\LCOM 1.3 (SEMANA 12)\LCOM 1.3 (SEMANA 12)\obj\Debug\LCOM 1.3 (SEMANA 12).csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\LCOM 1.3 (SEMANA 12)\LCOM 1.3 (SEMANA 12)\obj\Debug\LCOM 1.3 (SEMANA 12).csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\LCOM 1.3 (SEMANA 12)\LCOM 1.3 (SEMANA 12)\obj\Debug\LCOM 1.3 (SEMANA 12).exe
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\LCOM 1.3 (SEMANA 12)\LCOM 1.3 (SEMANA 12)\obj\Debug\LCOM 1.3 (SEMANA 12).pdb

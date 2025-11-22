@@ -1,0 +1,2 @@
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Ejercicio 1 (T2)\Ejercicio 1 (T2)\obj\Debug\Ejercicio 1 (T2).csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Ejercicio 1 (T2)\Ejercicio 1 (T2)\obj\Debug\Ejercicio 1 (T2).csproj.CoreCompileInputs.cache

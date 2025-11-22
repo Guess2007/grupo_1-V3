@@ -1,0 +1,7 @@
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Pruebas con Arrays\Pruebas con Arrays\obj\Debug\Pruebas con Arrays.csproj.AssemblyReference.cache
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Pruebas con Arrays\Pruebas con Arrays\obj\Debug\Pruebas con Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Pruebas con Arrays\Pruebas con Arrays\bin\Debug\Pruebas con Arrays.exe.config
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Pruebas con Arrays\Pruebas con Arrays\bin\Debug\Pruebas con Arrays.exe
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Pruebas con Arrays\Pruebas con Arrays\bin\Debug\Pruebas con Arrays.pdb
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Pruebas con Arrays\Pruebas con Arrays\obj\Debug\Pruebas con Arrays.exe
+C:\Users\Ryzen\OneDrive\Escritorio\Repositorios\grupo_1-V3\Pruebas con Arrays\Pruebas con Arrays\obj\Debug\Pruebas con Arrays.pdb
