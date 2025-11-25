@@ -99,6 +99,10 @@ namespace Semana_15
                     Console.WriteLine("a[{0},{1}]={2}",i, t_f - i - 1, a[i, t_f - i - 1]);//en el caso de estas dos formulas, estas nos sirven para poder ajustar lo que se va a mostrar en el array
                 }
                 Console.ReadKey();
+                a[0,0]+ a[0,1] + a[0,2]=prom
+                    prom/a.GetLength = prom1
+                    console.Writeline("promedio semana 1:")
+                    console.Writeline("repartido 1: prom1")
             } 
         }
     }
